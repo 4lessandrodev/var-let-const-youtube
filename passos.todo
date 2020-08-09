@@ -1,0 +1,31 @@
+TUDO QUE VOCÊ PRECISA SABER SOBRE VARIÁVEIS:
+    PADRÃO DE NOME
+    ✔ CAMELCASE @done (09/08/2020 14:06:47)
+    ✔ UNDERSCORE (SNACK CASE) @done (09/08/2020 14:06:48)
+
+    TIPOS DE VARIÁVEIS
+    ✔ STRING @done (09/08/2020 14:06:50)
+    ✔ NUMBER @done (09/08/2020 14:10:50)
+     ✔ FLOAT @done (09/08/2020 14:10:51)
+     ✔ INT @done (09/08/2020 14:10:52)
+    ✔ BOOLEAN @done (09/08/2020 14:19:24)
+    ✔ ARRAY @done (09/08/2020 14:24:52)
+    ✔ OBJECT @done (09/08/2020 14:37:30)
+    ✔ NULL @done (09/08/2020 14:48:50)
+    ✔ EMPTY @done (09/08/2020 14:48:51)
+    ✔ UNDEFINED @done (09/08/2020 14:48:54)
+
+    ✔ VAR @done (09/08/2020 15:08:42)
+    ✔ LET @done (09/08/2020 15:08:43)
+    ✔ CONST @done (09/08/2020 15:08:44)
+    -----------------------------------------------
+    | PALAVRA RESERVADA   | CONST |  LET  |  VAR  |
+    -----------------------------------------------
+    | ESCOPO GLOBAL       |  NÃO  |  NÃO  |  SIM  |
+    -----------------------------------------------
+    | ESCOPO DE FUNÇÃO    |  SIM  |  SIM  |  SIM  |
+    -----------------------------------------------
+    | ESCOPO DE BLOCO     |  SIM  |  SIM  |  NÃO  |
+    -----------------------------------------------
+    | PODE SER REDEFINIDO |  NÃO  |  SIM  |  SIM  |
+    -----------------------------------------------
